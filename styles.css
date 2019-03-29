@@ -1,0 +1,41 @@
+body{
+Background-image:url("https://cdn3.img.sputniknews.com/images/104926/47/1049264764.jpg");
+Background-size: 150%;
+background-attachment: fixed; 
+}
+p{
+   font-size:30px;
+   color:red;
+}
+main{
+    width:500px;
+    height:70px;
+    border: red groove 5px;
+    margin: 0 auto;
+    text-align:center;
+    background-color: grey;
+    border-radius:10px;
+}
+button{
+    color: red;
+    width:100px;
+    height:40px;
+    }
+input{
+    color: red;
+    width:100px;
+    height:35px;
+    
+    }
+h1{ 
+    width:700px;
+    height:70px;
+    border: red groove 5px;
+    margin: 0 auto;
+    text-align:center;
+    color:red;
+    display: flex;
+    justify-content:center;
+    font-size:60px;
+    font-family: 'Creepster', cursive;
+    }
